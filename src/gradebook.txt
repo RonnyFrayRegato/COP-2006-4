@@ -1,0 +1,8 @@
+Student 1: Ronny Fray
+Course: COP 2006
+Percentage: 91.2 %
+Grade: A
+Student 1: Ronny
+Course: COP 2006
+Percentage: 67.0 %
+Grade: D
